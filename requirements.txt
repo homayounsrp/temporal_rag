@@ -1,0 +1,6 @@
+graphiti-core
+python-dotenv
+langgraph>=1.0.0
+langchain-openai
+langchain-core
+rich
