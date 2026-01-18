@@ -12,7 +12,6 @@ Simple Graphiti knowledge graph demo with LLM agent for querying and updating th
    NEO4J_PASSWORD=your_password
    OPENAI_API_KEY=your_openai_api_key
    LLM_MODEL=gpt-4o-mini  # Optional, defaults to gpt-4o-mini
-   MODEL_CHOICE=gpt-4o-mini  # Optional, for Pydantic AI agent
    ```
 3. Ingest episodes: `python ingestion.py`
 4. Run the interactive LLM agent: `python main.py`
